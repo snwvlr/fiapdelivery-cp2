@@ -1,0 +1,10 @@
+*.class
+bin/
+.metadata/
+.settings/
+.classpath
+.project
+.idea/
+*.iml
+*.asta.bak
+*.asta.lock
